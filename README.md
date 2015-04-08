@@ -1,3 +1,3 @@
-My very first application, 
-all code ownwed by Ruokun An
-all right reserved 
+
+Copyright © 2015 by Ruokun An
+All right are reserved
